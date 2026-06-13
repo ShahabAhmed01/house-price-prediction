@@ -87,7 +87,11 @@ Task 6/
 
 > Add output screenshots to the `screenshots/` folder and reference them here.
 
-![Notebook Output](screenshots/.gitkeep)
+| ![target](screenshots/01-target-distribution.png) | ![geography](screenshots/02-geographic-distribution.png) |
+|:---:|:---:|
+| Target Distribution | Geographic Distribution |
+| ![correlation](screenshots/03-correlation-heatmap.png) | ![predictions](screenshots/04-model-predictions.png) |
+| Correlation Heatmap | Model Predictions |
 
 ## Future Improvements
 
